@@ -1,5 +1,5 @@
 # HoneyProductionInUS
-Used Excel pivot tables to summarize the production of Honey:
+This project is done using Excel pivot tables to summarize the production of Honey:
 1. Pivot table to find the total and average production of honey in each state.
 2. Pivot tbale to find the Stocks in each state.
 3. Pivot table to find the total production of honey in each year.
